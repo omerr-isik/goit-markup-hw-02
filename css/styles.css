@@ -34,6 +34,7 @@ body {
     font-weight: 700;
     font-size: 18px;
     line-height: 1.16;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2e2f42;
   }
@@ -42,6 +43,7 @@ body {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
+    letter-spacing: 0.02em;
     color: #2e2f42;
   }
   
@@ -174,6 +176,9 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #f4f4fd;
+  }
+  .footer-logo{
+    letter-spacing: 0.03em;
   }
   .footer-text {
     font-size: 16px;
