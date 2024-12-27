@@ -22,13 +22,13 @@ body {
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
-    letter-spacing: 0.03em;
+    letter-spacing: 0.02em;
     text-transform: uppercase;
     color: #4d5ae5;
   }
   
   /* HEADER */
-  
+
   
   .header-logo-studio {
     font-family: 'Raleway', sans-serif;
@@ -63,6 +63,7 @@ body {
   .header-address-link {
     font-size: 16px;
     line-height: 1.5;
+    letter-spacing: 0.02em;
     color: #434455;
   }
   
@@ -70,8 +71,8 @@ body {
   .header-address-link:focus {
     color: #404bbf;
   }
-  
-  /* HERO */
+   /* HEADER BİTİŞ */
+  /* 1. SECTİON */
   
   .hero {
     background-color: #2e2f42;
@@ -98,9 +99,8 @@ body {
     color: #ffffff;
     background-color: #404bbf;
   }
-  
-  /* FEATURES */
-  
+   /* 1. SECTİON BİTİŞ*/
+  /* 2. SECTİON */ 
   .features-list-title {
     font-weight: 500;
     font-size: 20px;
@@ -114,8 +114,8 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
   }
-  
-  /* TEAM */
+   /* 2. SECTİON BİTİŞ.*/
+   /* 3. SECTİON */
   
   .team {
     background-color: #f4f4fd;
@@ -148,8 +148,8 @@ body {
     text-align: center;
     color: #434455;
   }
-  
-  /* PRODUCT */
+   /* 3. SECTİON BİTİŞ*/
+  /* 4. SECTİON */
   
   .product-title {
     font-weight: 700;
@@ -173,11 +173,20 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
   }
-  
+  /* 4. SECTİON BİTİŞ*/
   /* FOOTER */
   
   .footer {
     background-color: #2e2f42;
+  }
+  .footer-logo-logotype{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #4d5ae5;
   }
   .footer-logo-studio {
     font-family: 'Raleway', sans-serif;
@@ -197,3 +206,4 @@ body {
     letter-spacing: 0.02em;
     color: #f4f4fd;
   }
+  /* FOOTER BİTİŞ */
